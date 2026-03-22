@@ -23,13 +23,12 @@
 
 ```python
 {
-  "name"     : "Daniel Turatti",
-  "alias"    : "@turatz",
-  "role"     : "Backend Developer",
-  "location" : "Brasil 🇧🇷",
-  "stack"    : ["Python", "APIs REST", "SQL", "Docker"],
-  "mindset"  : "Clean code. Fast systems. Zero excuses.",
-  "status"   : "🟢 Always building..."
+  name     : Daniel Turatti,
+  role     : Backend Developer,
+  location : Brasil 🇧🇷,
+  stack    : [Python, APIs REST, SQL, Docker],
+  mindset  : Clean code. Fast systems. Zero excuses.",
+  status   : 🟢 Always building...
 }
 ```
 
@@ -72,16 +71,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </td>
-<td align="center" width="200">
-
-**🚀 DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</td>
-</tr>
 </table>
 
 </div>
@@ -135,7 +124,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conectar!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="danielturatti10@gmail.com">
+<a href="mailto:danielturatti10@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Manda%20um%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
