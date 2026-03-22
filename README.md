@@ -28,6 +28,8 @@
 | 🇺🇸 Inglês | B1 | ███████░░░░░ 60% |
 
 </div>
+
+
 ---
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
