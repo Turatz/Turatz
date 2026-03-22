@@ -1,118 +1,156 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:00d9ff&height=200&section=header&text=Daniel%20Turatti&fontSize=60&fontColor=00d9ff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20Building%20things%20that%20matter&descAlignY=58&descColor=ffffff&animation=fadeIn" />
+</div>
 
-```
- ██████╗  █████╗ ███╗   ██╗██╗███████╗██╗
- ██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║
- ██║  ██║███████║██╔██╗ ██║██║█████╗  ██║
- ██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║
- ██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝
-```
+<div align="center">
+  <a href="https://github.com/turatz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🐍+Python+Backend+Developer;⚡+APIs+que+não+dormem;🔧+Arquitetando+sistemas+robustos;☕+Café+→+Código+→+Deploy+→+Repeat;🚀+Sempre+construindo+algo+novo" alt="Typing SVG" />
+  </a>
+</div>
 
-### 🐍 Backend Developer · Python Enthusiast · Bug Slayer
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=print(%22Hello%2C+World!%22);Transformando+caf%C3%A9+em+c%C3%B3digo...;Backend+%3E+Frontend+%F0%9F%98%8C;Python+is+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=turatz&color=00d9ff&style=for-the-badge&label=VISITANTES+NO+PERFIL" />
+  <img src="https://img.shields.io/github/followers/turatz?style=for-the-badge&color=00d9ff&labelColor=0d0d0d&label=SEGUIDORES" />
 </div>
 
 ---
 
-## `$ whoami`
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## ⚡ `> whoami`
 
 ```python
-class Daniel:
-    def __init__(self):
-        self.name       = "Daniel Turatti"
-        self.alias      = "turatz"
-        self.role       = "Backend Developer"
-        self.language   = ["Python", "SQL", "Bash"]
-        self.interests  = ["APIs", "Automação", "Arquitetura de sistemas"]
-        self.coffee     = float("inf")  # nunca acaba ☕
-
-    def say_hi(self):
-        print("Fala! Seja bem-vindo ao meu perfil 👋")
-        print("Aqui você vai encontrar projetos, experimentos e muita lógica 🧠")
-
-me = Daniel()
-me.say_hi()
+{
+  "name"     : "Daniel Turatti",
+  "alias"    : "@turatz",
+  "role"     : "Backend Developer",
+  "location" : "Brasil 🇧🇷",
+  "stack"    : ["Python", "APIs REST", "SQL", "Docker"],
+  "mindset"  : "Clean code. Fast systems. Zero excuses.",
+  "status"   : "🟢 Always building..."
+}
 ```
+
+> *"Qualquer problema complexo tem uma solução elegante — eu só preciso de café suficiente para encontrá-la."*
+
+<br clear="right"/>
 
 ---
 
-## `$ ls ~/skills`
+## 🛠️ `> tech --stack`
 
 <div align="center">
 
-### 🐍 Linguagens & Frameworks
+<table>
+<tr>
+<td align="center" width="200">
+
+**⚙️ Core**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=databricks&logoColor=white)
+
+</td>
+<td align="center" width="200">
+
+**🌐 Frameworks**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄️ Banco de Dados
+</td>
+<td align="center" width="200">
+
+**🗄️ Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🛠️ Ferramentas & Infra
+</td>
+<td align="center" width="200">
+
+**🚀 DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## `$ cat projetos.txt`
+## 🚀 `> ls ~/projetos`
 
-> 💡 *Aqui vivem os experimentos, as gambiarras elegantes e as soluções que funcionam às 3am*
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+</div>
 
-| 🚀 Projeto | 📝 Descrição | 🛠️ Tech |
-|-----------|-------------|--------|
-| **Em breve...** | Coisas incríveis sendo construídas | Python 🐍 |
-| **Em breve...** | APIs que não caem (quase nunca) | FastAPI ⚡ |
-| **Em breve...** | Automações que me poupam horas | Scripts 🤖 |
+> 🔥 *Projetos em construção — coisas grandes estão chegando.*
 
-> ⭐ *Dá uma olhada nos repositórios fixados lá embaixo!*
+| # | Projeto | Descrição | Stack | Status |
+|---|---------|-----------|-------|--------|
+| 01 | **🔗 Em breve** | API de alta performance | FastAPI + PostgreSQL | 🔨 Building |
+| 02 | **🤖 Em breve** | Automação inteligente | Python + Redis | 🔨 Building |
+| 03 | **📊 Em breve** | Sistema de dados | Django + SQL | 🔨 Building |
+
+<div align="center">
+  <a href="https://github.com/turatz?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-%2300d9ff?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</div>
 
 ---
 
-## `$ ping daniel`
+## 📊 `> git stats`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turatz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turatz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d9ff&text_color=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=turatz&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" width="600" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turatz&theme=react-dark&bg_color=0d0d0d&color=00d9ff&line=00d9ff&point=ffffff&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 📡 `> ping daniel`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-turatti)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-turatz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/turatz)
+<a href="https://linkedin.com/in/daniel-turatti">
+  <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conectar!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:seuemail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Manda%20um%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/turatz">
+  <img src="https://img.shields.io/badge/GitHub-turatz-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+💬 *Aberto para colaborações, freelas e boas conversas sobre tecnologia.*
 
 </div>
 
 ---
 
-## `$ git log --stats`
-
 <div align="center">
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=turatz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turatz&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=turatz&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-$ echo "Obrigado pela visita! Bora codar? 🚀"
-Obrigado pela visita! Bora codar? 🚀
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=turatz&color=00d9ff&style=for-the-badge&label=VISITANTES)
-
-*— feito com ☕ + 🐍 por Daniel Turatti*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a0a2e,100:0d0d0d&height=120&section=footer&text=Let's+build+something+great&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 </div>
