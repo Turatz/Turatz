@@ -17,6 +17,19 @@
 
 ---
 
+## 🌐 `> languages --human`
+
+<div align="center">
+
+| Idioma | Nível | Proficiência |
+|--------|-------|-------------|
+| 🇧🇷 Português | Nativo | ████████████ 100% |
+| 🇪🇸 Espanhol | B2 | █████████░░░ 75% |
+| 🇺🇸 Inglês | B1 | ███████░░░░░ 60% |
+
+</div>
+---
+
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## ⚡ `> whoami`
