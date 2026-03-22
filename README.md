@@ -131,15 +131,15 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/daniel-turatti">
+<a href="https://www.linkedin.com/in/daniel-turatti-b3786a3b4/">
   <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conectar!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:seuemail@gmail.com">
+<a href="danielturatti10@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Manda%20um%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/turatz">
+<a href="https://github.com/Turatz">
   <img src="https://img.shields.io/badge/GitHub-turatz-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
