@@ -102,9 +102,9 @@
 
 | # | Projeto | Descrição | Stack | Status |
 |---|---------|-----------|-------|--------|
-| 01 | **🔗 Em breve** | API de alta performance | FastAPI + PostgreSQL | 🔨 Building |
-| 02 | **🤖 Em breve** | Automação inteligente | Python + Redis | 🔨 Building |
-| 03 | **📊 Em breve** | Sistema de dados | Django + SQL | 🔨 Building |
+| 01 | **🔗 Em andamento** | Sistema de cadastro/login | Django + SQLite | 🔨 Building |
+| 02 | **🤖 Em andamento** | Conversor de dinheiro | Django + SQLite | 🔨 Building |
+| 03 | **📊 Em breve** | Sistema de dados | Panda + SQL | 🔨 Building |
 
 <div align="center">
   <a href="https://github.com/turatz?tab=repositories">
