@@ -104,7 +104,7 @@
 |---|---------|-----------|-------|--------|
 | 01 | **🔗 Em andamento** | Sistema de cadastro/login | Django + SQLite | 🔨 Building |
 | 02 | **🤖 Em andamento** | Conversor de dinheiro | Django + SQLite | 🔨 Building |
-| 03 | **📊 Em breve** | Sistema de dados | Panda + SQL | 🔨 Building |
+| 03 | **📊 Em breve** | Sistema de dados | Panda + SQL | 🔨 Planning |
 
 <div align="center">
   <a href="https://github.com/turatz?tab=repositories">
