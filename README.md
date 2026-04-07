@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠️ `> tech --stack`
+## 🛠️ `> tech -- stack`
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 
 ---
 
-## 🚀 `> ls ~/projetos`
+## 🚀 `> Projects`
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
@@ -124,7 +124,7 @@
 
 ---
 
-## 📡 `> ping daniel`
+## 📡 `> ping Turatti`
 
 <div align="center">
 
