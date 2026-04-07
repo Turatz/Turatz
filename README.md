@@ -102,8 +102,8 @@
 
 | # | Projeto | Descrição | Stack | Status |
 |---|---------|-----------|-------|--------|
-| 01 | [*🔗 Em andamento*](https://github.com/Turatz/Sistema_Cadastro-Login) | Sistema de cadastro/login | Django + SQLite | 🔨 Building |
-| 02 | [*🤖 Em andamento*](https://github.com/Turatz/Money-Converter) | Conversor de dinheiro | Django + SQLite | 🔨 Building |
+| 01 | *🔗 Em andamento* | [Sistema de cadastro/login](https://github.com/Turatz/Sistema_Cadastro-Login) | Django + SQLite | 🔨 Building |
+| 02 | *🤖 Em andamento* | [Conversor de dinheiro](https://github.com/Turatz/Money-Converter) | Django + SQLite | 🔨 Building |
 | 03 | *📊 Em breve* | Sistema de dados | Pandas + SQL | 🔨 Planning |
 <div align="center">
   <a href="https://github.com/turatz?tab=repositories">
