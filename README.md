@@ -28,15 +28,15 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## ⚡ `> whoami`
+## ⚡ `> about me`
 
 ```python
 {
   name     : Daniel Turatti,
-  role     : Backend Developer,
+  role     : Backend Developer, Frontend Developer
   location : Brasil 🇧🇷,
-  stack    : [Python, APIs REST, SQL, Docker],
-  mindset  : Clean code. Fast systems. Zero excuses.",
+  stack    : [Python, Django, Panda, SQL, Docker],
+  mindset  : Clean code and Zero excuses.",
   status   : 🟢 Always building...
 }
 ```
