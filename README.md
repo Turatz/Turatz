@@ -17,7 +17,7 @@
 
 ---
 
-## 🌐 `> languages --human`
+## 🌐 `> languages -- human`
 
 <div align="center">
 
@@ -103,6 +103,7 @@
 | # | Projeto | Descrição | Stack | Status |
 |---|---------|-----------|-------|--------|
 | 01 | **🔗 Em andamento** | Sistema de cadastro/login | Django + SQLite | 🔨 Building |
+<a href="https://github.com/Turatz/Sistema_Cadastro-Login/tree/main">
 | 02 | **🤖 Em andamento** | Conversor de dinheiro | Django + SQLite | 🔨 Building |
 | 03 | **📊 Em breve** | Sistema de dados | Panda + SQL | 🔨 Planning |
 
