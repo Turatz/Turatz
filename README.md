@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:00d9ff&height=200&section=header&text=Daniel%20Turatti&fontSize=60&fontColor=00d9ff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20Building%20things%20that%20matter&descAlignY=58&descColor=ffffff&animation=fadeIn" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/turatz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🐍+Python+Backend+Developer;⚡+APIs+que+não+dormem;🔧+Arquitetando+sistemas+robustos;☕+Café+→+Código+→+Deploy+→+Repeat;🚀+Sempre+construindo+algo+novo" alt="Typing SVG" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
@@ -47,7 +41,7 @@
 }
 ```
 
-> *"Qualquer problema complexo tem uma solução elegante — eu só preciso de café suficiente para encontrá-la."*
+> *"Qualquer problema complexo tem uma solução, eu só preciso de café suficiente para encontrá-la."*
 
 <br clear="right"/>
 
