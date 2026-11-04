@@ -39,7 +39,7 @@ Também trabalho com APIs REST e JWT, e tenho noções de AWS, estruturas de dad
 |---------|-----------|-------------|
 | [Sistema de cadastro e login](https://github.com/Turatz/Sistema_Cadastro-Login) | Autenticação de usuários, cadastro, login e proteção de rotas com JWT | Django, JWT, SQLite |
 | [Conversor de moedas](https://github.com/Turatz?tab=repositories) | API que consome cotações em tempo real e converte entre moedas | FastAPI, Requests |
-| [Sistema financeiro](https://github.com/Turatz?tab=repositories) | Receitas, despesas, categorias, recorrência de cartões e dashboard | Django, SQLite, Pandas |
+| [Sistema de deposito](https://github.com/Turatz/projeto_estoque) | Estoque, cadastro de produtos, busca com filtros, sistema de login e dashboard | Django, SQLite, Pandas |
 
 [Ver todos os repositórios →](https://github.com/Turatz?tab=repositories)
 
