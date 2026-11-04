@@ -33,9 +33,9 @@
 ```python
 {
   name     : Daniel Turatti,
-  role     : Backend Developer, Frontend Developer
+  role     : Backend Developer,
   location : Brasil 🇧🇷,
-  stack    : [Python, Django, Panda, SQL, Docker],
+  stack    : [Python, Java, Flask, Django, Panda, SQL, Docker],
   mindset  : Clean code and Zero excuses.",
   status   : 🟢 Always building...
 }
@@ -96,9 +96,9 @@
 
 | # | Projeto | Descrição | Stack | Status |
 |---|---------|-----------|-------|--------|
-| 01 | *🔗 Em andamento* | [Sistema de cadastro/login](https://github.com/Turatz/Sistema_Cadastro-Login) | Django + SQLite | 🔨 Building |
-| 02 | *🤖 Em andamento* | [Loja de roupas](https://github.com/Turatz/Loja-de-roupas) | Django + SQLite | 🔨 Building |
-| 03 | *📊 Em breve* | Sistema de dados | Pandas + SQL | 🔨 Planning |
+| 01 | *🔗 Finalizado* | [Sistema de cadastro/login](https://github.com/Turatz/Sistema_Cadastro-Login) | Django + SQLite | 🔨 Building |
+| 02 | *🤖 Finalizado* | [Sistema de agendamento] (https://github.com/Turatz?tab=repositories)| Django + SQLite | 🔨 Building |
+| 03 | *📊 Em andamentos* | [Sistema de estoque] (https://github.com/Turatz/sistema_estoque)| Pandas + SQL | 🔨 Planning |
 <div align="center">
   <a href="https://github.com/turatz?tab=repositories">
     <img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-%2300d9ff?style=for-the-badge&logo=github&logoColor=black" />
