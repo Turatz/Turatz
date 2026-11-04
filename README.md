@@ -1,153 +1,59 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a0a2e,100:00d9ff&height=200&section=header&text=Daniel%20Turatti&fontSize=60&fontColor=00d9ff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20Building%20things%20that%20matter&descAlignY=58&descColor=ffffff&animation=fadeIn" />
-</div>
+<h1 align="center">Daniel Turatti</h1>
 
-<br/>
+<p align="center">
+  Estudante de Ciência da Computação · Python · Porto Alegre, RS<br/>
+  <sub>Aprender / Evoluir / Contribuir</sub>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=turatz&color=00d9ff&style=for-the-badge&label=VISITANTES+NO+PERFIL" />
-  <img src="https://img.shields.io/github/followers/turatz?style=for-the-badge&color=00d9ff&labelColor=0d0d0d&label=SEGUIDORES" />
-</div>
-
----
-
-## 🌐 `> languages -- human`
-
-<div align="center">
-
-| Idioma | Nível | Proficiência |
-|--------|-------|-------------|
-| 🇧🇷 Português | Nativo | ████████████ 100% |
-| 🇪🇸 Espanhol | B2 | █████████░░░ 75% |
-| 🇺🇸 Inglês | B1 | ███████░░░░░ 60% |
-
-</div>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-turatti-b3786a3b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:danielturatti10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Turatz"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## Sobre
 
-## ⚡ `> about me`
+Em busca de uma oportunidade como **estagiário em TI** ou **desenvolvedor Python júnior**, para aplicar e expandir meus conhecimentos na prática, contribuindo com soluções eficientes e aprendendo junto com a equipe.
 
-```python
-{
-  name     : Daniel Turatti,
-  role     : Backend Developer,
-  location : Brasil 🇧🇷,
-  stack    : [Python, Java, Flask, Django, Panda, SQL, Docker],
-  mindset  : Clean code and Zero excuses.",
-  status   : 🟢 Always building...
-}
-```
+**Formação:** Ciência da Computação (cursando) na [FIAP](https://www.fiap.com.br/)
+**Disponibilidade:** integral, remoto, híbrido ou presencial em Porto Alegre
 
-> *"Qualquer problema complexo tem uma solução, eu só preciso de café suficiente para encontrá-la."*
+## Stack
 
-<br clear="right"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F29111?style=flat&logo=databricks&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
+Também trabalho com APIs REST e JWT, e tenho noções de AWS, estruturas de dados e versionamento de código.
 
-## 🛠️ `> tech -- stack`
+## Projetos
 
-<div align="center">
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Sistema de cadastro e login](https://github.com/Turatz/Sistema_Cadastro-Login) | Autenticação de usuários, cadastro, login e proteção de rotas com JWT | Django, JWT, SQLite |
+| [Conversor de moedas](https://github.com/Turatz?tab=repositories) | API que consome cotações em tempo real e converte entre moedas | FastAPI, Requests |
+| [Sistema financeiro](https://github.com/Turatz?tab=repositories) | Receitas, despesas, categorias, recorrência de cartões e dashboard | Django, SQLite, Pandas |
 
-<table>
-<tr>
-<td align="center" width="200">
+[Ver todos os repositórios →](https://github.com/Turatz?tab=repositories)
 
-**⚙️ Core**
+## Idiomas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=databricks&logoColor=white)
+🇧🇷 Português (nativo) · 🇺🇸 Inglês (intermediário) · 🇪🇸 Espanhol (intermediário)
 
-</td>
-<td align="center" width="200">
+## GitHub
 
-**🌐 Frameworks**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</td>
-<td align="center" width="200">
-
-**🗄️ Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</td>
-</table>
-
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Turatz&show_icons=true&theme=transparent&hide_border=true&title_color=0969da&icon_color=0969da" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turatz&layout=compact&theme=transparent&hide_border=true&title_color=0969da" />
+</p>
 
 ---
 
-## 🚀 `> Projects`
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-</div>
-
-> 🔥 *Projetos em construção — coisas grandes estão chegando.*
-
-| # | Projeto | Descrição | Stack | Status |
-|---|---------|-----------|-------|--------|
-| 01 | *🔗 Finalizado* | [Sistema de cadastro/login](https://github.com/Turatz/Sistema_Cadastro-Login) | Django + SQLite | 🔨 Building |
-| 02 | *🤖 Finalizado* | [Sistema de agendamento](https://github.com/Turatz?tab=repositories)| Django + SQLite | 🔨 Building |
-| 03 | *📊 Em andamentos* | [Sistema de estoque](https://github.com/Turatz/sistema_estoque)| Pandas + SQL | 🔨 Planning |
-<div align="center">
-  <a href="https://github.com/turatz?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-%2300d9ff?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</div>
-
----
-
-## 📊 `> git stats`
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turatz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turatz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d9ff&text_color=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=turatz&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" width="600" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turatz&theme=react-dark&bg_color=0d0d0d&color=00d9ff&line=00d9ff&point=ffffff&hide_border=true" width="100%" />
-</div>
-
----
-
-## 📡 `> ping Turatti`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/daniel-turatti-b3786a3b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conectar!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:danielturatti10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Manda%20um%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Turatz">
-  <img src="https://img.shields.io/badge/GitHub-turatz-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-💬 *Aberto para colaborações, freelas e boas conversas sobre tecnologia.*
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a0a2e,100:0d0d0d&height=120&section=footer&text=Let's+build+something+great&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-</div>
+<p align="center"><i>Disciplina, foco e constância constroem grandes resultados.</i></p>
