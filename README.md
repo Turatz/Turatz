@@ -97,8 +97,8 @@
 | # | Projeto | Descrição | Stack | Status |
 |---|---------|-----------|-------|--------|
 | 01 | *🔗 Finalizado* | [Sistema de cadastro/login](https://github.com/Turatz/Sistema_Cadastro-Login) | Django + SQLite | 🔨 Building |
-| 02 | *🤖 Finalizado* | [Sistema de agendamento] (https://github.com/Turatz?tab=repositories)| Django + SQLite | 🔨 Building |
-| 03 | *📊 Em andamentos* | [Sistema de estoque] (https://github.com/Turatz/sistema_estoque)| Pandas + SQL | 🔨 Planning |
+| 02 | *🤖 Finalizado* | [Sistema de agendamento](https://github.com/Turatz?tab=repositories)| Django + SQLite | 🔨 Building |
+| 03 | *📊 Em andamentos* | [Sistema de estoque](https://github.com/Turatz/sistema_estoque)| Pandas + SQL | 🔨 Planning |
 <div align="center">
   <a href="https://github.com/turatz?tab=repositories">
     <img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-%2300d9ff?style=for-the-badge&logo=github&logoColor=black" />
