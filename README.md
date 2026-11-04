@@ -47,13 +47,6 @@ Também trabalho com APIs REST e JWT, e tenho noções de AWS, estruturas de dad
 
 🇧🇷 Português (nativo) · 🇺🇸 Inglês (intermediário) · 🇪🇸 Espanhol (intermediário)
 
-## GitHub
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Turatz&show_icons=true&theme=transparent&hide_border=true&title_color=0969da&icon_color=0969da" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turatz&layout=compact&theme=transparent&hide_border=true&title_color=0969da" />
-</p>
-
----
 
 <p align="center"><i>Disciplina, foco e constância constroem grandes resultados.</i></p>
